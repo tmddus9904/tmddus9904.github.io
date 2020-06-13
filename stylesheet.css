@@ -1,0 +1,20 @@
+@font-face {font-family: 'Atomy-Bold';src: url('Atomy-Light.woff') format('woff');font-weight: normal;font-style: normal; } 
+@font-face {font-family: 'Atomy-Medium';src: url('Atomy-Medium.woff') format('woff');font-weight: normal;font-style: normal; } 
+@font-face {font-family: 'Atomy-Black';src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_four@1.0/Atomy-Bold.woff') format('woff');font-weight: normal;font-style: normal; }
+.guru{color: #575e7c; font-size: 25px; padding-left: 5px; padding-top: 5px;}
+#logo {margin:20px auto 0 auto; width: 200px; height: 153px; float: center;}
+#account {float: right; width : 180px; height: 20px; margin-top:-10px;font-family:'Atomy-Medium'; font-size: 13px;}
+#login {float: left; padding-right: 10px;}
+#singup {float: left;}
+nav ul {margin-left : -40px; text-align:center; font-family:'Atomy-Bold';font-size: large;}
+nav li{background-color: #575e7c; color:white; list-style: none; float: left; width:19.8%; margin-left: 0.25%; height: 50px; padding-top: 12px; font: large;}
+nav li:hover{background-color: gray;}
+#account a{text-decoration: none !important;color:#575e7c;}
+/* .menu {display:inline-block; color: white; }
+.menu a {color:white; } */
+li.menu{width: 150px; height:10px ; margin: 0 10px; text-align: center;}
+.navi{margin:0 auto; width:100%; background-color: #575e7c; height:20px; text-align:center;}
+
+#bottom ul{margin-left : -0.8%}
+#bottom li {width : 49.5%; background-color:white; float: left; list-style: none; border: 2px solid #575e7c;font-family:'Atomy-Bold';font-size: large;}
+#notion {margin-right: 10px;}
